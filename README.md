@@ -1,7 +1,10 @@
 🩺 MedAI Lite – AI Disease Prediction System
 MedAI Lite is a simple and powerful Machine Learning web application built using Streamlit that predicts:
+
 🩸 Diabetes
+
 ❤️ Heart Disease
+
 🫀 Liver Disease
 
 🚀 Features
